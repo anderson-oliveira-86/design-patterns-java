@@ -1,13 +1,9 @@
 package command.problema.loja;
 
-import command.problema.loja.pedido.Pedido;
 import command.solucao.loja.pedido.GeraPedido;
 import command.solucao.loja.pedido.GeraPedidoHandler;
-import org.w3c.dom.ls.LSOutput;
-import state.solucao.loja.orcamento.Orcamento;
 
 import java.math.BigDecimal;
-import java.time.LocalDateTime;
 
 public class TestesPedidos {
 
